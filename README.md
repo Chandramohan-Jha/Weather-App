@@ -1,6 +1,10 @@
 # mausam_app
 
-A new Flutter project.
+This app provides the user with complete information about
+the temperature, wind speed, precipitation, and humidity. All this information is provided in a
+clear and simpler way so that the user can get complete knowledge about the weather
+conditions in an easy way. The weather data is extracted from “OPENWEATHER API”.
+
 
 ## Getting Started
 
